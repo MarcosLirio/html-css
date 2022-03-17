@@ -1,0 +1,1 @@
+<img src="Aqui vc coloca o endereço da imagem" alt="Aqui é uma alternativa, caso a imagem não apareça vc escreva alguma coisa para a pessoa saber">
